@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "80820596609",
+    "firebase_url": "https://onlinecontacts-7c363.firebaseio.com",
+    "project_id": "onlinecontacts-7c363",
+    "storage_bucket": "onlinecontacts-7c363.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80820596609:android:43967eee7240d38a604280",
+        "android_client_info": {
+          "package_name": "com.example.online_contacts"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80820596609-oeobvt61hu59nsqtespo7n1t3847bpk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAV3Pyxn7B4dCuDjXoWhpLxFDmPbml2hiQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80820596609-oeobvt61hu59nsqtespo7n1t3847bpk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
